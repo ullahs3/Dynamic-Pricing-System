@@ -1,0 +1,5 @@
+gym==0.26.2
+stable-baselines3[extra]
+torch
+numpy
+shimmy>=2.0
